@@ -1,0 +1,7 @@
+---
+name: events
+pack: outlookevents
+runner_type: "python-script"
+description: consume outlook events api
+enabled: true
+entry_point: events.py
